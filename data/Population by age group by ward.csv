@@ -1,0 +1,505 @@
+﻿LocationType,Location,Age group,TimeFrame,DataFormat,Data
+City,District of Columbia,18 and over,2000,Number,457067
+City,District of Columbia,All Ages,2000,Number,572059
+City,District of Columbia,Under 18,2000,Number,114992
+City,District of Columbia,Under 5,2000,Number,32536
+City,District of Columbia,18 and over,2013,Number,514080
+City,District of Columbia,All Ages,2013,Number,619371
+City,District of Columbia,Under 18,2013,Number,105291
+City,District of Columbia,Under 5,2013,Number,36492
+City,District of Columbia,All Ages,2018,Number,684498
+City,District of Columbia,Under 5,2018,Number,44692
+City,District of Columbia,Under 18,2018,Number,121737
+City,District of Columbia,18 and over,2018,Number,562761
+City,District of Columbia,Under 3,2018,Number,26734
+City,District of Columbia,18 and over,2010,Number,500908
+City,District of Columbia,All Ages,2010,Number,601723
+City,District of Columbia,Under 18,2010,Number,100815
+City,District of Columbia,Under 5,2010,Number,32613
+City,District of Columbia,18 and over,2009,Number,474441
+City,District of Columbia,All Ages,2009,Number,588433
+City,District of Columbia,Under 18,2009,Number,113992
+City,District of Columbia,Under 5,2009,Number,35809
+City,District of Columbia,All Ages,2015,Number,647484
+City,District of Columbia,Under 5,2015,Number,40144
+City,District of Columbia,Under 18,2015,Number,110588
+City,District of Columbia,18 and over,2015,Number,536764
+City,District of Columbia,18 and over,2011,Number,490932
+City,District of Columbia,All Ages,2011,Number,595955
+City,District of Columbia,Under 18,2011,Number,105023
+City,District of Columbia,Under 5,2011,Number,33348
+City,District of Columbia,18 and over,2012,Number,501773
+City,District of Columbia,All Ages,2012,Number,605759
+City,District of Columbia,Under 18,2012,Number,103986
+City,District of Columbia,Under 5,2012,Number,34718
+City,District of Columbia,18 and over,2014,Number,525747
+City,District of Columbia,All Ages,2014,Number,633736
+City,District of Columbia,Under 18,2014,Number,107989
+City,District of Columbia,Under 5,2014,Number,38546
+City,District of Columbia,All Ages,2017,Number,672391
+City,District of Columbia,Under 5,2017,Number,43607
+City,District of Columbia,Under 18,2017,Number,118058
+City,District of Columbia,18 and over,2017,Number,554333
+City,District of Columbia,Under 3,2017,Number,26983
+City,District of Columbia,All Ages,2016,Number,659009
+City,District of Columbia,Under 5,2016,Number,42177
+City,District of Columbia,Under 18,2016,Number,115327
+City,District of Columbia,18 and over,2016,Number,543682
+City,District of Columbia,All Ages,2019,Number,692683
+City,District of Columbia,Under 5,2019,Number,45040
+City,District of Columbia,Under 18,2019,Number,123930
+City,District of Columbia,18 and over,2019,Number,568753
+City,District of Columbia,Under 3,2019,Number,27196
+City,District of Columbia,All Ages,2020,Number,701974
+City,District of Columbia,Under 5,2020,Number,44913
+City,District of Columbia,Under 18,2020,Number,126048
+City,District of Columbia,18 and over,2020,Number,575926
+City,District of Columbia,Under 3,2020,Number,26847
+Ward,Ward 1,Under 3,2019,Number,2898
+Ward,Ward 1,18 and over,2019,Number,72979
+Ward,Ward 1,Under 18,2019,Number,10832
+Ward,Ward 1,Under 5,2019,Number,4223
+Ward,Ward 1,All Ages,2019,Number,83811
+Ward,Ward 1,All Ages,2016,Number,82898
+Ward,Ward 1,Under 5,2016,Number,4559
+Ward,Ward 1,Under 18,2016,Number,10444
+Ward,Ward 1,18 and over,2016,Number,72454
+Ward,Ward 1,All Ages,2017,Number,83598
+Ward,Ward 1,Under 5,2017,Number,4464
+Ward,Ward 1,Under 18,2017,Number,10673
+Ward,Ward 1,18 and over,2017,Number,72925
+Ward,Ward 1,Under 3,2017,Number,3154
+Ward,Ward 1,18 and over,2012,Number,66528
+Ward,Ward 1,All Ages,2012,Number,75814
+Ward,Ward 1,Under 18,2012,Number,9286
+Ward,Ward 1,Under 5,2012,Number,3874
+Ward,Ward 1,18 and over,2014,Number,71623
+Ward,Ward 1,All Ages,2014,Number,81637
+Ward,Ward 1,Under 18,2014,Number,10014
+Ward,Ward 1,Under 5,2014,Number,4380
+Ward,Ward 1,All Ages,2015,Number,82859
+Ward,Ward 1,Under 5,2015,Number,4723
+Ward,Ward 1,Under 18,2015,Number,10523
+Ward,Ward 1,18 and over,2015,Number,72336
+Ward,Ward 1,18 and over,2011,Number,65854
+Ward,Ward 1,All Ages,2011,Number,75454
+Ward,Ward 1,Under 18,2011,Number,9600
+Ward,Ward 1,Under 5,2011,Number,3836
+Ward,Ward 1,18 and over,2009,Number,60104
+Ward,Ward 1,All Ages,2009,Number,71198
+Ward,Ward 1,Under 18,2009,Number,11094
+Ward,Ward 1,Under 5,2009,Number,4382
+Ward,Ward 1,18 and over,2010,Number,67163
+Ward,Ward 1,All Ages,2010,Number,76197
+Ward,Ward 1,Under 18,2010,Number,9034
+Ward,Ward 1,Under 5,2010,Number,3480
+Ward,Ward 1,Under 3,2018,Number,2911
+Ward,Ward 1,18 and over,2013,Number,69636
+Ward,Ward 1,All Ages,2013,Number,79145
+Ward,Ward 1,Under 18,2013,Number,9509
+Ward,Ward 1,Under 5,2013,Number,4136
+Ward,Ward 1,All Ages,2018,Number,85134
+Ward,Ward 1,Under 5,2018,Number,4354
+Ward,Ward 1,Under 18,2018,Number,10908
+Ward,Ward 1,18 and over,2018,Number,74226
+Ward,Ward 1,18 and over,2000,Number,60262
+Ward,Ward 1,All Ages,2000,Number,73364
+Ward,Ward 1,Under 18,2000,Number,13102
+Ward,Ward 1,Under 5,2000,Number,4105
+Ward,Ward 1,Under 3,2020,Number,2866
+Ward,Ward 1,18 and over,2020,Number,74299
+Ward,Ward 1,Under 18,2020,Number,10990
+Ward,Ward 1,Under 5,2020,Number,4446
+Ward,Ward 1,All Ages,2020,Number,85289
+Ward,Ward 2,18 and over,2000,Number,63356
+Ward,Ward 2,All Ages,2000,Number,68869
+Ward,Ward 2,Under 18,2000,Number,5513
+Ward,Ward 2,Under 5,2000,Number,1803
+Ward,Ward 2,All Ages,2018,Number,77791
+Ward,Ward 2,Under 5,2018,Number,2447
+Ward,Ward 2,Under 18,2018,Number,4790
+Ward,Ward 2,18 and over,2018,Number,73001
+Ward,Ward 2,18 and over,2013,Number,71332
+Ward,Ward 2,All Ages,2013,Number,75186
+Ward,Ward 2,Under 18,2013,Number,3854
+Ward,Ward 2,Under 5,2013,Number,2095
+Ward,Ward 2,Under 3,2018,Number,1890
+Ward,Ward 2,18 and over,2010,Number,75259
+Ward,Ward 2,All Ages,2010,Number,79915
+Ward,Ward 2,Under 18,2010,Number,4656
+Ward,Ward 2,Under 5,2010,Number,2021
+Ward,Ward 2,18 and over,2009,Number,64044
+Ward,Ward 2,All Ages,2009,Number,68845
+Ward,Ward 2,Under 18,2009,Number,4801
+Ward,Ward 2,Under 5,2009,Number,1896
+Ward,Ward 2,18 and over,2011,Number,71875
+Ward,Ward 2,All Ages,2011,Number,76815
+Ward,Ward 2,Under 18,2011,Number,4940
+Ward,Ward 2,Under 5,2011,Number,2226
+Ward,Ward 2,18 and over,2012,Number,71051
+Ward,Ward 2,All Ages,2012,Number,75116
+Ward,Ward 2,Under 18,2012,Number,4065
+Ward,Ward 2,Under 5,2012,Number,2186
+Ward,Ward 2,18 and over,2014,Number,71656
+Ward,Ward 2,All Ages,2014,Number,75780
+Ward,Ward 2,Under 18,2014,Number,4124
+Ward,Ward 2,Under 5,2014,Number,2083
+Ward,Ward 2,All Ages,2015,Number,77645
+Ward,Ward 2,Under 5,2015,Number,2174
+Ward,Ward 2,Under 18,2015,Number,4348
+Ward,Ward 2,18 and over,2015,Number,73297
+Ward,Ward 2,All Ages,2017,Number,77940
+Ward,Ward 2,Under 5,2017,Number,2327
+Ward,Ward 2,Under 18,2017,Number,4572
+Ward,Ward 2,18 and over,2017,Number,73368
+Ward,Ward 2,Under 3,2017,Number,1805
+Ward,Ward 2,All Ages,2016,Number,76956
+Ward,Ward 2,Under 5,2016,Number,2309
+Ward,Ward 2,Under 18,2016,Number,4387
+Ward,Ward 2,18 and over,2016,Number,72569
+Ward,Ward 2,All Ages,2019,Number,77855
+Ward,Ward 2,Under 5,2019,Number,2286
+Ward,Ward 2,Under 18,2019,Number,4351
+Ward,Ward 2,18 and over,2019,Number,73504
+Ward,Ward 2,Under 3,2019,Number,1691
+Ward,Ward 2,All Ages,2020,Number,77923
+Ward,Ward 2,Under 5,2020,Number,2307
+Ward,Ward 2,Under 18,2020,Number,4049
+Ward,Ward 2,18 and over,2020,Number,73874
+Ward,Ward 2,Under 3,2020,Number,1545
+Ward,Ward 3,Under 3,2019,Number,1977
+Ward,Ward 3,18 and over,2019,Number,69309
+Ward,Ward 3,Under 18,2019,Number,13428
+Ward,Ward 3,Under 5,2019,Number,4107
+Ward,Ward 3,All Ages,2019,Number,82737
+Ward,Ward 3,All Ages,2016,Number,83237
+Ward,Ward 3,Under 5,2016,Number,4162
+Ward,Ward 3,Under 18,2016,Number,12902
+Ward,Ward 3,18 and over,2016,Number,70335
+Ward,Ward 3,Under 3,2017,Number,2405
+Ward,Ward 3,All Ages,2017,Number,84021
+Ward,Ward 3,Under 5,2017,Number,4429
+Ward,Ward 3,Under 18,2017,Number,13423
+Ward,Ward 3,18 and over,2017,Number,70598
+Ward,Ward 3,18 and over,2011,Number,67374
+Ward,Ward 3,All Ages,2011,Number,77346
+Ward,Ward 3,Under 18,2011,Number,9972
+Ward,Ward 3,Under 5,2011,Number,3331
+Ward,Ward 3,18 and over,2014,Number,71221
+Ward,Ward 3,All Ages,2014,Number,82795
+Ward,Ward 3,Under 18,2014,Number,11574
+Ward,Ward 3,Under 5,2014,Number,3966
+Ward,Ward 3,18 and over,2012,Number,69583
+Ward,Ward 3,All Ages,2012,Number,80344
+Ward,Ward 3,Under 18,2012,Number,10761
+Ward,Ward 3,Under 5,2012,Number,3571
+Ward,Ward 3,All Ages,2015,Number,83152
+Ward,Ward 3,Under 5,2015,Number,4241
+Ward,Ward 3,Under 18,2015,Number,12722
+Ward,Ward 3,18 and over,2015,Number,70430
+Ward,Ward 3,18 and over,2010,Number,67044
+Ward,Ward 3,All Ages,2010,Number,77152
+Ward,Ward 3,Under 18,2010,Number,10108
+Ward,Ward 3,Under 5,2010,Number,3377
+Ward,Ward 3,18 and over,2009,Number,64206
+Ward,Ward 3,All Ages,2009,Number,76698
+Ward,Ward 3,Under 18,2009,Number,12492
+Ward,Ward 3,Under 5,2009,Number,4535
+Ward,Ward 3,Under 3,2018,Number,2187
+Ward,Ward 3,All Ages,2018,Number,85067
+Ward,Ward 3,Under 5,2018,Number,4274
+Ward,Ward 3,Under 18,2018,Number,13879
+Ward,Ward 3,18 and over,2018,Number,71188
+Ward,Ward 3,18 and over,2013,Number,69812
+Ward,Ward 3,All Ages,2013,Number,80544
+Ward,Ward 3,Under 18,2013,Number,10732
+Ward,Ward 3,Under 5,2013,Number,3799
+Ward,Ward 3,18 and over,2000,Number,64901
+Ward,Ward 3,All Ages,2000,Number,73718
+Ward,Ward 3,Under 18,2000,Number,8817
+Ward,Ward 3,Under 5,2000,Number,2857
+Ward,Ward 3,Under 3,2020,Number,2427
+Ward,Ward 3,18 and over,2020,Number,70837
+Ward,Ward 3,Under 18,2020,Number,13814
+Ward,Ward 3,Under 5,2020,Number,4418
+Ward,Ward 3,All Ages,2020,Number,84651
+Ward,Ward 4,18 and over,2000,Number,59488
+Ward,Ward 4,All Ages,2000,Number,75179
+Ward,Ward 4,Under 18,2000,Number,15691
+Ward,Ward 4,Under 5,2000,Number,4196
+Ward,Ward 4,18 and over,2013,Number,63223
+Ward,Ward 4,All Ages,2013,Number,79111
+Ward,Ward 4,Under 18,2013,Number,15888
+Ward,Ward 4,Under 5,2013,Number,5209
+Ward,Ward 4,Under 3,2018,Number,3763
+Ward,Ward 4,All Ages,2018,Number,87775
+Ward,Ward 4,Under 5,2018,Number,6573
+Ward,Ward 4,Under 18,2018,Number,18713
+Ward,Ward 4,18 and over,2018,Number,69062
+Ward,Ward 4,18 and over,2009,Number,61562
+Ward,Ward 4,All Ages,2009,Number,76926
+Ward,Ward 4,Under 18,2009,Number,15364
+Ward,Ward 4,Under 5,2009,Number,4725
+Ward,Ward 4,18 and over,2010,Number,60571
+Ward,Ward 4,All Ages,2010,Number,75773
+Ward,Ward 4,Under 18,2010,Number,15202
+Ward,Ward 4,Under 5,2010,Number,4783
+Ward,Ward 4,All Ages,2015,Number,83066
+Ward,Ward 4,Under 5,2015,Number,5565
+Ward,Ward 4,Under 18,2015,Number,15616
+Ward,Ward 4,18 and over,2015,Number,67450
+Ward,Ward 4,18 and over,2011,Number,60888
+Ward,Ward 4,All Ages,2011,Number,76207
+Ward,Ward 4,Under 18,2011,Number,15319
+Ward,Ward 4,Under 5,2011,Number,4663
+Ward,Ward 4,18 and over,2012,Number,61523
+Ward,Ward 4,All Ages,2012,Number,76851
+Ward,Ward 4,Under 18,2012,Number,15328
+Ward,Ward 4,Under 5,2012,Number,4752
+Ward,Ward 4,All Ages,2017,Number,84643
+Ward,Ward 4,Under 5,2017,Number,5728
+Ward,Ward 4,Under 18,2017,Number,17217
+Ward,Ward 4,18 and over,2017,Number,67426
+Ward,Ward 4,Under 3,2017,Number,3405
+Ward,Ward 4,All Ages,2016,Number,84065
+Ward,Ward 4,Under 5,2016,Number,5464
+Ward,Ward 4,Under 18,2016,Number,17233
+Ward,Ward 4,18 and over,2016,Number,66832
+Ward,Ward 4,18 and over,2014,Number,65136
+Ward,Ward 4,All Ages,2014,Number,82375
+Ward,Ward 4,Under 18,2014,Number,17239
+Ward,Ward 4,Under 5,2014,Number,5590
+Ward,Ward 4,All Ages,2019,Number,89992
+Ward,Ward 4,Under 5,2019,Number,7161
+Ward,Ward 4,Under 18,2019,Number,19638
+Ward,Ward 4,18 and over,2019,Number,70354
+Ward,Ward 4,Under 3,2019,Number,4239
+Ward,Ward 4,All Ages,2020,Number,90300
+Ward,Ward 4,Under 5,2020,Number,5793
+Ward,Ward 4,Under 18,2020,Number,19354
+Ward,Ward 4,18 and over,2020,Number,70946
+Ward,Ward 4,Under 3,2020,Number,3574
+Ward,Ward 5,Under 3,2019,Number,3607
+Ward,Ward 5,18 and over,2012,Number,61808
+Ward,Ward 5,All Ages,2012,Number,75470
+Ward,Ward 5,Under 18,2012,Number,13662
+Ward,Ward 5,Under 5,2012,Number,4020
+Ward,Ward 5,18 and over,2019,Number,74857
+Ward,Ward 5,Under 18,2019,Number,15315
+Ward,Ward 5,Under 5,2019,Number,5477
+Ward,Ward 5,All Ages,2019,Number,90172
+Ward,Ward 5,All Ages,2016,Number,85464
+Ward,Ward 5,Under 5,2016,Number,6581
+Ward,Ward 5,Under 18,2016,Number,15470
+Ward,Ward 5,18 and over,2016,Number,69999
+Ward,Ward 5,Under 3,2017,Number,3597
+Ward,Ward 5,All Ages,2017,Number,86136
+Ward,Ward 5,Under 5,2017,Number,6056
+Ward,Ward 5,Under 18,2017,Number,14669
+Ward,Ward 5,18 and over,2017,Number,71467
+Ward,Ward 5,18 and over,2014,Number,65882
+Ward,Ward 5,All Ages,2014,Number,80307
+Ward,Ward 5,Under 18,2014,Number,14425
+Ward,Ward 5,Under 5,2014,Number,5288
+Ward,Ward 5,All Ages,2015,Number,82049
+Ward,Ward 5,Under 5,2015,Number,5743
+Ward,Ward 5,Under 18,2015,Number,14604
+Ward,Ward 5,18 and over,2015,Number,67445
+Ward,Ward 5,18 and over,2011,Number,60827
+Ward,Ward 5,All Ages,2011,Number,74528
+Ward,Ward 5,Under 18,2011,Number,13701
+Ward,Ward 5,Under 5,2011,Number,3910
+Ward,Ward 5,18 and over,2009,Number,59821
+Ward,Ward 5,All Ages,2009,Number,74673
+Ward,Ward 5,Under 18,2009,Number,14852
+Ward,Ward 5,Under 5,2009,Number,4273
+Ward,Ward 5,18 and over,2010,Number,61576
+Ward,Ward 5,All Ages,2010,Number,74308
+Ward,Ward 5,Under 18,2010,Number,12732
+Ward,Ward 5,Under 5,2010,Number,3735
+Ward,Ward 5,18 and over,2013,Number,64730
+Ward,Ward 5,All Ages,2013,Number,79342
+Ward,Ward 5,Under 18,2013,Number,14612
+Ward,Ward 5,Under 5,2013,Number,4940
+Ward,Ward 5,Under 3,2018,Number,3595
+Ward,Ward 5,All Ages,2018,Number,87850
+Ward,Ward 5,Under 5,2018,Number,5945
+Ward,Ward 5,Under 18,2018,Number,15027
+Ward,Ward 5,18 and over,2018,Number,72823
+Ward,Ward 5,18 and over,2000,Number,56112
+Ward,Ward 5,All Ages,2000,Number,71440
+Ward,Ward 5,Under 18,2000,Number,15328
+Ward,Ward 5,Under 5,2000,Number,4001
+Ward,Ward 5,Under 3,2020,Number,3867
+Ward,Ward 5,18 and over,2020,Number,75026
+Ward,Ward 5,Under 18,2020,Number,17068
+Ward,Ward 5,Under 5,2020,Number,6572
+Ward,Ward 5,All Ages,2020,Number,92094
+Ward,Ward 6,18 and over,2000,Number,56378
+Ward,Ward 6,All Ages,2000,Number,68035
+Ward,Ward 6,Under 18,2000,Number,11657
+Ward,Ward 6,Under 5,2000,Number,3342
+Ward,Ward 6,18 and over,2013,Number,72921
+Ward,Ward 6,All Ages,2013,Number,83821
+Ward,Ward 6,Under 18,2013,Number,10900
+Ward,Ward 6,Under 5,2013,Number,4142
+Ward,Ward 6,Under 3,2018,Number,4159
+Ward,Ward 6,18 and over,2010,Number,66717
+Ward,Ward 6,All Ages,2010,Number,76598
+Ward,Ward 6,Under 18,2010,Number,9881
+Ward,Ward 6,Under 5,2010,Number,3902
+Ward,Ward 6,All Ages,2018,Number,94558
+Ward,Ward 6,Under 5,2018,Number,5971
+Ward,Ward 6,Under 18,2018,Number,13448
+Ward,Ward 6,18 and over,2018,Number,81110
+Ward,Ward 6,18 and over,2009,Number,63394
+Ward,Ward 6,All Ages,2009,Number,74782
+Ward,Ward 6,Under 18,2009,Number,11388
+Ward,Ward 6,Under 5,2009,Number,4118
+Ward,Ward 6,18 and over,2011,Number,66259
+Ward,Ward 6,All Ages,2011,Number,76288
+Ward,Ward 6,Under 18,2011,Number,10029
+Ward,Ward 6,Under 5,2011,Number,4164
+Ward,Ward 6,All Ages,2015,Number,84290
+Ward,Ward 6,Under 5,2015,Number,4804
+Ward,Ward 6,Under 18,2015,Number,10873
+Ward,Ward 6,18 and over,2015,Number,73417
+Ward,Ward 6,18 and over,2014,Number,71221
+Ward,Ward 6,All Ages,2014,Number,82092
+Ward,Ward 6,Under 18,2014,Number,10871
+Ward,Ward 6,Under 5,2014,Number,4628
+Ward,Ward 6,18 and over,2012,Number,68017
+Ward,Ward 6,All Ages,2012,Number,79119
+Ward,Ward 6,Under 18,2012,Number,11102
+Ward,Ward 6,Under 5,2012,Number,4380
+Ward,Ward 6,All Ages,2017,Number,91093
+Ward,Ward 6,Under 5,2017,Number,5847
+Ward,Ward 6,Under 18,2017,Number,12819
+Ward,Ward 6,18 and over,2017,Number,78274
+Ward,Ward 6,Under 3,2017,Number,4179
+Ward,Ward 6,All Ages,2016,Number,87480
+Ward,Ward 6,Under 5,2016,Number,4811
+Ward,Ward 6,Under 18,2016,Number,11547
+Ward,Ward 6,18 and over,2016,Number,75933
+Ward,Ward 6,All Ages,2019,Number,99786
+Ward,Ward 6,Under 5,2019,Number,6354
+Ward,Ward 6,Under 18,2019,Number,14444
+Ward,Ward 6,18 and over,2019,Number,85342
+Ward,Ward 6,Under 3,2019,Number,4437
+Ward,Ward 6,All Ages,2020,Number,101882
+Ward,Ward 6,Under 5,2020,Number,5883
+Ward,Ward 6,Under 18,2020,Number,14821
+Ward,Ward 6,18 and over,2020,Number,87061
+Ward,Ward 6,Under 3,2020,Number,4212
+Ward,Ward 7,Under 3,2019,Number,3508
+Ward,Ward 7,18 and over,2019,Number,62164
+Ward,Ward 7,Under 18,2019,Number,19782
+Ward,Ward 7,Under 5,2019,Number,6557
+Ward,Ward 7,All Ages,2019,Number,81946
+Ward,Ward 7,18 and over,2014,Number,54115
+Ward,Ward 7,All Ages,2014,Number,70064
+Ward,Ward 7,Under 18,2014,Number,15949
+Ward,Ward 7,Under 5,2014,Number,4757
+Ward,Ward 7,All Ages,2016,Number,75796
+Ward,Ward 7,Under 5,2016,Number,5988
+Ward,Ward 7,Under 18,2016,Number,17963
+Ward,Ward 7,18 and over,2016,Number,57833
+Ward,Ward 7,Under 3,2017,Number,3617
+Ward,Ward 7,All Ages,2017,Number,79800
+Ward,Ward 7,Under 5,2017,Number,6444
+Ward,Ward 7,Under 18,2017,Number,18842
+Ward,Ward 7,18 and over,2017,Number,60958
+Ward,Ward 7,18 and over,2011,Number,50398
+Ward,Ward 7,All Ages,2011,Number,68768
+Ward,Ward 7,Under 18,2011,Number,18370
+Ward,Ward 7,Under 5,2011,Number,4449
+Ward,Ward 7,18 and over,2012,Number,50996
+Ward,Ward 7,All Ages,2012,Number,68035
+Ward,Ward 7,Under 18,2012,Number,17039
+Ward,Ward 7,Under 5,2012,Number,4319
+Ward,Ward 7,18 and over,2010,Number,53243
+Ward,Ward 7,All Ages,2010,Number,71068
+Ward,Ward 7,Under 18,2010,Number,17825
+Ward,Ward 7,Under 5,2010,Number,4758
+Ward,Ward 7,All Ages,2015,Number,73290
+Ward,Ward 7,Under 5,2015,Number,5204
+Ward,Ward 7,Under 18,2015,Number,16731
+Ward,Ward 7,18 and over,2015,Number,56559
+Ward,Ward 7,18 and over,2009,Number,53116
+Ward,Ward 7,All Ages,2009,Number,72918
+Ward,Ward 7,Under 18,2009,Number,19802
+Ward,Ward 7,Under 5,2009,Number,4837
+Ward,Ward 7,Under 3,2018,Number,3617
+Ward,Ward 7,All Ages,2018,Number,81299
+Ward,Ward 7,Under 5,2018,Number,6654
+Ward,Ward 7,Under 18,2018,Number,19757
+Ward,Ward 7,18 and over,2018,Number,61542
+Ward,Ward 7,18 and over,2013,Number,49296
+Ward,Ward 7,All Ages,2013,Number,65777
+Ward,Ward 7,Under 18,2013,Number,16481
+Ward,Ward 7,Under 5,2013,Number,4585
+Ward,Ward 7,18 and over,2000,Number,51109
+Ward,Ward 7,All Ages,2000,Number,70527
+Ward,Ward 7,Under 18,2000,Number,19418
+Ward,Ward 7,Under 5,2000,Number,4963
+Ward,Ward 7,Under 3,2020,Number,3963
+Ward,Ward 7,18 and over,2020,Number,63761
+Ward,Ward 7,Under 18,2020,Number,20510
+Ward,Ward 7,Under 5,2020,Number,7180
+Ward,Ward 7,All Ages,2020,Number,84271
+Ward,Ward 8,18 and over,2000,Number,45461
+Ward,Ward 8,All Ages,2000,Number,70927
+Ward,Ward 8,Under 18,2000,Number,25466
+Ward,Ward 8,Under 5,2000,Number,7269
+Ward,Ward 8,18 and over,2013,Number,53130
+Ward,Ward 8,All Ages,2013,Number,76445
+Ward,Ward 8,Under 18,2013,Number,23315
+Ward,Ward 8,Under 5,2013,Number,7586
+Ward,Ward 8,18 and over,2009,Number,48194
+Ward,Ward 8,All Ages,2009,Number,72393
+Ward,Ward 8,Under 18,2009,Number,24199
+Ward,Ward 8,Under 5,2009,Number,7043
+Ward,Ward 8,Under 3,2018,Number,4612
+Ward,Ward 8,All Ages,2018,Number,85024
+Ward,Ward 8,Under 5,2018,Number,8474
+Ward,Ward 8,Under 18,2018,Number,25215
+Ward,Ward 8,18 and over,2018,Number,59809
+Ward,Ward 8,All Ages,2015,Number,81133
+Ward,Ward 8,Under 5,2015,Number,7870
+Ward,Ward 8,Under 18,2015,Number,26112
+Ward,Ward 8,18 and over,2015,Number,55021
+Ward,Ward 8,18 and over,2010,Number,49335
+Ward,Ward 8,All Ages,2010,Number,70712
+Ward,Ward 8,Under 18,2010,Number,21377
+Ward,Ward 8,Under 5,2010,Number,6557
+Ward,Ward 8,18 and over,2012,Number,52267
+Ward,Ward 8,All Ages,2012,Number,75010
+Ward,Ward 8,Under 18,2012,Number,22743
+Ward,Ward 8,Under 5,2012,Number,7616
+Ward,Ward 8,18 and over,2011,Number,47457
+Ward,Ward 8,All Ages,2011,Number,68549
+Ward,Ward 8,Under 18,2011,Number,21092
+Ward,Ward 8,Under 5,2011,Number,6769
+Ward,Ward 8,All Ages,2017,Number,85160
+Ward,Ward 8,Under 5,2017,Number,8312
+Ward,Ward 8,Under 18,2017,Number,25843
+Ward,Ward 8,18 and over,2017,Number,59317
+Ward,Ward 8,Under 3,2017,Number,4821
+Ward,Ward 8,All Ages,2016,Number,83108
+Ward,Ward 8,Under 5,2016,Number,8061
+Ward,Ward 8,Under 18,2016,Number,24765
+Ward,Ward 8,18 and over,2016,Number,58343
+Ward,Ward 8,18 and over,2014,Number,54893
+Ward,Ward 8,All Ages,2014,Number,78686
+Ward,Ward 8,Under 18,2014,Number,23793
+Ward,Ward 8,Under 5,2014,Number,7854
+Ward,Ward 8,All Ages,2019,Number,86384
+Ward,Ward 8,Under 5,2019,Number,8875
+Ward,Ward 8,Under 18,2019,Number,26140
+Ward,Ward 8,18 and over,2019,Number,60244
+Ward,Ward 8,Under 3,2019,Number,4839
+Ward,Ward 8,All Ages,2020,Number,85564
+Ward,Ward 8,Under 5,2020,Number,8314
+Ward,Ward 8,Under 18,2020,Number,25442
+Ward,Ward 8,18 and over,2020,Number,60122
+Ward,Ward 8,Under 3,2020,Number,4393
